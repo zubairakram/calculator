@@ -1,0 +1,27 @@
+{
+    "name": "calculator",
+    "version": "1.0.0",
+    "description": "simple calculator created in javascript",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "parcel src/index.html",
+        "build": "parcel build src/index.html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zubairakram/calculator.git"
+    },
+    "keywords": [
+        "calculator"
+    ],
+    "author": "zubair akram",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/zubairakram/calculator/issues"
+    },
+    "homepage": "https://github.com/zubairakram/calculator#readme",
+    "devDependencies": {
+        "parcel-bundler": "^1.12.3"
+    }
+}
