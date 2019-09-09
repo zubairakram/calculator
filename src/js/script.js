@@ -39,7 +39,6 @@ for (let i=0; i<keys.length; i++) {
     keys[i].addEventListener("click", ()=> {
         cal.updateScreen(keys[i]);
     })
-    console.log(keys[i].getAttribute("value"));
 }
 
 /* result */
