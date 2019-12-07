@@ -22,6 +22,9 @@
     },
     "homepage": "https://github.com/zubairakram/calculator#readme",
     "devDependencies": {
-        "parcel-bundler": "^1.12.3"
+        "parcel-bundler": "^1.12.4"
+    },
+    "dependencies": {
+        "neovim": "^4.5.0"
     }
 }
