@@ -12,6 +12,9 @@
         "type": "git",
         "url": "git+https://github.com/zubairakram/calculator.git"
     },
+    "publishConfig": {
+        "registry": "https://npm.calculator.github.com/"
+    },
     "keywords": [
         "calculator"
     ],
