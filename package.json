@@ -21,6 +21,6 @@
     },
     "homepage": "https://github.com/zubairakram/calculator#readme",
     "dependencies": {
-        "vite": "^2.8.1"
+        "vite": "^2.9.13"
     }
 }
